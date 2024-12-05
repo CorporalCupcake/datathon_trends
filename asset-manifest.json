@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CorporalCupcake/datathon_trends/static/css/main.2346b33e.css",
+    "main.js": "/CorporalCupcake/datathon_trends/static/js/main.f54cd757.js",
+    "static/js/453.063b0806.chunk.js": "/CorporalCupcake/datathon_trends/static/js/453.063b0806.chunk.js",
+    "index.html": "/CorporalCupcake/datathon_trends/index.html",
+    "main.2346b33e.css.map": "/CorporalCupcake/datathon_trends/static/css/main.2346b33e.css.map",
+    "main.f54cd757.js.map": "/CorporalCupcake/datathon_trends/static/js/main.f54cd757.js.map",
+    "453.063b0806.chunk.js.map": "/CorporalCupcake/datathon_trends/static/js/453.063b0806.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2346b33e.css",
+    "static/js/main.f54cd757.js"
+  ]
+}
